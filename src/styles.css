@@ -1,0 +1,10 @@
+div {
+  width: 100%;
+  font-size: 2rem;
+  font-family: "Inter", sans-serif;
+  font-weight: 800;
+  touch-action: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
